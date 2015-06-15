@@ -1,0 +1,9 @@
+links.test:
+  path: 'links'
+  defaults:
+    _controller: '\Drupal\links\Controller\Links::test'
+  requirements:
+    _access: 'TRUE'
+  options:
+    _no_cache: TRUE
+

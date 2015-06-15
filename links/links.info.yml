@@ -1,0 +1,5 @@
+name: Links
+type: module
+description: 'Test links on a page.'
+version: VERSION
+core: 8.x
